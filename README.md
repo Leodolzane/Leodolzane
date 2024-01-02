@@ -2,7 +2,7 @@
 
 
 - 👩‍💻 Hoje trabalho como Analista de Testes (QA)
-- 📖 Estudando -
+- 📖 Estudando Cypress
 
  <div>
    <a href="https://github.com/Leodolzane">
